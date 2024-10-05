@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Skanda</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fjoker%2F&psig=AOvVaw2LhbWzH1AACpRG3lrf0XDv&ust=1728236400821000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCtibjk94gDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.tumblr.com/2019joker/189037027306/joker-2019-hq-gif-extended-gif-request">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh1507&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh1507" /> </p>
 
