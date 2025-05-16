@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh1507&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh1507" /> </p>
 
-- 🔭 I’m currently working on [Curse Cloak](https://github.com/vignesh1507/Curse_Cloak)
+- 🔭 I’m currently working on [https://github.com/Asvix-04/Medibot-AI)
 
 - 🌱 I’m currently learning **LLMs and working with deep learning frameworks.**
 
 - 👯 I’m looking to collaborate on [AI Webscraper](https://github.com/vignesh1507/Streamlit-Applications/tree/main/AI_Webscraper)
 
-- 🤝 I’m looking for help with [AI Medical Chatbot](https://github.com/vignesh1507/AI-Medical-Chatbot)
+- 🤝 I’m looking for help with [Curse Cloak](https://github.com/vignesh1507/Curse_Cloak)
 
 - 💬 Ask me about **Machine learning, AI & AWS**
 
