@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **agvskanda@gmail.com**
 
-- ⚡ Fun fact **Did you know? AI can dream too! Google created an AI called 'DeepDream' that finds and enhances patterns in images. The results? Surreal, dream-like images that almost look like hallucinations—showing how neural networks 'see' the world.**
+- ⚡ Fun fact **Did you know scientists are training AI to digitize smells? One day, you might literally download the scent of rain or outer space straight into your room.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
