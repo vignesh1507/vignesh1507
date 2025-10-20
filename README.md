@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **LLMs and working with deep learning frameworks.**
 
-- 👯 I’m looking to collaborate on [AI Webscraper](https://github.com/vignesh1507/Streamlit-Applications/tree/main/AI_Webscraper)
+- 👯 I’m looking to collaborate on [CAGE](https://github.com/Asvix-04/CAGE)
 
-- 🤝 I’m looking for help with [Curse Cloak](https://github.com/vignesh1507/Curse_Cloak)
+- 🤝 I’m looking for help with [SignGPT](https://github.com/Asvix-04/SignGPT)
 
 - 💬 Ask me about **Machine learning, AI & AWS**
 
