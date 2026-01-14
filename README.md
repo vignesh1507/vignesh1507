@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [[https://github.com/Asvix-04/Medibot-AI](https://github.com/Asvix-04/V2))
+- 🔭 I’m currently working on [[https://github.com/Asvix-04/V2](https://github.com/Asvix-04/V2))
 
 - 🌱 I’m currently learning **LLMs and working with deep learning frameworks.**
 
