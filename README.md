@@ -18,4 +18,4 @@
 
 - How to reach me **agvskanda@gmail.com**
 
-Ps: **maybe someday we all will find peace**
+Ps: **Every project is one step closer to something impossible becoming ordinary.**
