@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [SignGPT](https://github.com/Asvix-04/SignGPT)
 
-- Asvix Lineups: **Medibot → DigiLab → MIL Bot → CAGE → Sentinel**
+- Asvix Lineups: **Medibot → DigiLab → Enervara**
 
 - 📫 How to reach me **agvskanda@gmail.com**
 
